@@ -137,6 +137,50 @@ body{
     margin-right: 50px;
     flex:0 1 auto;
 }
+.ad{
+    padding:50px 450px;
+
+}
+.blue-div{
+    background-color:#3882f6; ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 100px;
+    padding-right: 125px;
+    border-radius: 25px;
+    min-width: 450px;
+}
+.ad-container-1
+{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+}
+.ad-text-header{
+    margin:0;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.ad-text-subtext{
+    margin: 0px;
+    font-size: 20px;
+    color:white;
+}
+.ad-button
+{
+    background-color: #3882f6;
+    padding: 8px 30px;
+    color:white;
+    border-radius: 8px;
+    border:2px solid white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .footer{
     
     flex: 1 0 auto;
