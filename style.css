@@ -152,6 +152,8 @@ body{
     padding-right: 125px;
     border-radius: 25px;
     min-width: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .ad-container-1
 {
@@ -185,6 +187,12 @@ body{
     
     flex: 1 0 auto;
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: white;
+    font-size: 25px;
 }
 
 a{
